@@ -1,0 +1,50 @@
+{
+  "i18n": false,
+  "neko_mimi": false,
+  "name": {
+    "CN": {
+      "title": "獭按钮",
+      "fullName": ""
+    },
+    "EN": {
+      "title": "Voives Button",
+      "fullName": ""
+    }
+  },
+  "readme": "",
+  "header": {
+    "icon": "",
+    "youtube": "",
+    "twitter": "",
+    "bilibili": "https://space.bilibili.com/1609526545"
+  },
+  "link": [
+    {
+      "name": "栞栞shiori-萌娘百科",
+      "url": "https://mzh.moegirl.org.cn/%E6%A0%9E%E6%A0%9E",
+      "background": "#F5C1BB"
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "ttk1600",
+        "url": ""
+      }
+    ],
+    "info": [
+      ""
+    ],
+    "githubUrl": ""
+  },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
+  "CDN": ""
+}
