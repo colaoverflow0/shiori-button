@@ -24,6 +24,12 @@
     }
   },
   {
+    "name": "幽默小栞",
+    "translate": {
+      "zh-CN": "幽默小栞"
+    }
+  },
+  {
     "name": "椰子鸡",
     "translate": {
       "zh-CN": "椰子鸡"
@@ -39,6 +45,12 @@
     "name": "自用",
     "translate": {
       "zh-CN": "自用"
+    }
+  },
+  {
+    "name": "喷嚏民用",
+    "translate": {
+      "zh-CN": "喷嚏民用"
     }
   }
 ]
